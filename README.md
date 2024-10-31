@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: mail@deanbaker.dev
   
-> ⚡ Fun fact: People often think about changing the world to their preference instead of their prespective.
+> ⚡ Fun fact: People often think about changing the world to their preference, instead of adjusting their prespective.
 
 <!---
 misc-dean/misc-dean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
